@@ -22,3 +22,9 @@ datasets/
 
 # Arduino / build
 build/
+helm_small/
+runs/
+*.pt
+*.jpg
+*.png
+*.mp4
