@@ -93,3 +93,5 @@ Hardware:
 👩‍💻 Author
 
 Sneha Pawar ❤️    
+<img width="1280" height="720" alt="WhatsApp Image 2026-04-10 at 11 31 21" src="https://github.com/user-attachments/assets/b8b6c3a1-77d8-4f13-8c9d-e76ef384a796" />
+
