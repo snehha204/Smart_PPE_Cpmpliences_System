@@ -1,0 +1,15 @@
+"""This is the dataset configuration file for the helmet detection project. It specifies the 
+paths to the training, validation, and test datasets, as well as the number of classes and 
+their names."""
+
+path: /Users/snehasiddheshwarpawar/PPE_Project/helm_small
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+
+names:
+  0: head
+  1: helmet 

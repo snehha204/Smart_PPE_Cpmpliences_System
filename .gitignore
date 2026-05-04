@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# YOLO / ML
+runs/
+*.pt
+*.onnx
+
+# Data
+datasets/
+*.jpg
+*.png
+*.mp4
+
+# Mac
+.DS_Store
+
+# Arduino / build
+build/
